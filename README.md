@@ -52,7 +52,7 @@ I think I can try to use tailwind config a lot more in future projects.
 
 - Continue investigating both Vite and Tailwind for future projects.
 - Continue to try out grid instead of flex next time.
-- Read up on github pages. How to set up a different branch to get a live version of the code. (This I found on information about on [Vite](https://vitejs.dev/guide/static-deploy))
+- Read up on github pages. How to set up a different branch to get a live version of the code. (This I found on information about on [Vite](https://vitejs.dev/guide/static-deploy). One thing I hade to change was the `base` config to not be the repo name but instead be `./`)
 
 ## Author
 
