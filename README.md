@@ -30,6 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/jotaprojects/product-preview-card-component](https://github.com/jotaprojects/product-preview-card-component)
+- Live Site URL: [https://jotaprojects.github.io/product-preview-card-component/](https://jotaprojects.github.io/product-preview-card-component/)
 
 ## My process
 
@@ -46,10 +47,12 @@ Trying out both Tailwind css and Vite for development. The tailwind css has been
 Vite was a buzz word that I wanted to test and it seems to work fine but together with tailwind it was hard to set up so tailwind would apply the utility classes that I had entered in the html. Sometimes the changes didn't appear and it took some time to get it working again. 
 I think I can try to use tailwind config a lot more in future projects. 
 
+
 ### Continued development
 
 - Continue investigating both Vite and Tailwind for future projects.
-- Read up on github pages. How to set up a different branch to get a live version of the code. 
+- Continue to try out grid instead of flex next time.
+- Read up on github pages. How to set up a different branch to get a live version of the code. (This I found on information about on [Vite](https://vitejs.dev/guide/static-deploy))
 
 ## Author
 
