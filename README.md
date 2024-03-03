@@ -25,39 +25,31 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/jotaprojects/product-preview-card-component](https://github.com/jotaprojects/product-preview-card-component)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
 - Mobile-first workflow
 - [Tailwind](https://tailwindcss.com/) - For styles
 - [Vite](https://vitejs.dev/) - For development
 
 ### What I learned
 
-
+Trying out both Tailwind css and Vite for development. The tailwind css has been hard to learn because of the number of css classes. But if I work with it more it should come naturally.  
+Vite was a buzz word that I wanted to test and it seems to work fine but together with tailwind it was hard to set up so tailwind would apply the utility classes that I had entered in the html. Sometimes the changes didn't appear and it took some time to get it working again. 
+I think I can try to use tailwind config a lot more in future projects. 
 
 ### Continued development
 
-
+- Continue investigating both Vite and Tailwind for future projects.
+- Read up on github pages. How to set up a different branch to get a live version of the code. 
 
 ## Author
 
